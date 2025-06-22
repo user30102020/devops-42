@@ -1,0 +1,317 @@
+Getting all non-system users
+Non-system users found:
+
+Getting all non-system users
+Non-system users found:
+
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Group 'dev' already exists
+Adding user 'mbril' to 'dev' group
+ERROR: cannot add 'mbril' to 'dev' group
+Adding user 'max' to 'dev' group
+ERROR: cannot add 'max' to 'dev' group
+Adding user 'ilya' to 'dev' group
+ERROR: cannot add 'ilya' to 'dev' group
+Adding user 'consultant1' to 'dev' group
+ERROR: cannot add 'consultant1' to 'dev' group
+Adding user 'consultant2' to 'dev' group
+ERROR: cannot add 'consultant2' to 'dev' group
+Adding user 'operator1' to 'dev' group
+ERROR: cannot add 'operator1' to 'dev' group
+Adding user 'opik' to 'dev' group
+ERROR: cannot add 'opik' to 'dev' group
+Adding user 'user2' to 'dev' group
+ERROR: cannot add 'user2' to 'dev' group
+Adding user 'user3' to 'dev' group
+ERROR: cannot add 'user3' to 'dev' group
+Adding user 'userlab6' to 'dev' group
+ERROR: cannot add 'userlab6' to 'dev' group
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Creating 'dev' group
+INFO: Group 'dev' has been created
+Adding user 'mbril' to 'dev' group
+User 'mbril' has been added to 'dev' group
+Adding user 'max' to 'dev' group
+User 'max' has been added to 'dev' group
+Adding user 'ilya' to 'dev' group
+User 'ilya' has been added to 'dev' group
+Adding user 'consultant1' to 'dev' group
+User 'consultant1' has been added to 'dev' group
+Adding user 'consultant2' to 'dev' group
+User 'consultant2' has been added to 'dev' group
+Adding user 'operator1' to 'dev' group
+User 'operator1' has been added to 'dev' group
+Adding user 'opik' to 'dev' group
+User 'opik' has been added to 'dev' group
+Adding user 'user2' to 'dev' group
+User 'user2' has been added to 'dev' group
+Adding user 'user3' to 'dev' group
+User 'user3' has been added to 'dev' group
+Adding user 'userlab6' to 'dev' group
+User 'userlab6' has been added to 'dev' group
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Group 'dev' already exists
+Adding user 'mbril' to 'dev' group
+User 'mbril' has been added to 'dev' group
+Adding user 'max' to 'dev' group
+User 'max' has been added to 'dev' group
+Adding user 'ilya' to 'dev' group
+User 'ilya' has been added to 'dev' group
+Adding user 'consultant1' to 'dev' group
+User 'consultant1' has been added to 'dev' group
+Adding user 'consultant2' to 'dev' group
+User 'consultant2' has been added to 'dev' group
+Adding user 'operator1' to 'dev' group
+User 'operator1' has been added to 'dev' group
+Adding user 'opik' to 'dev' group
+User 'opik' has been added to 'dev' group
+Adding user 'user2' to 'dev' group
+User 'user2' has been added to 'dev' group
+Adding user 'user3' to 'dev' group
+User 'user3' has been added to 'dev' group
+Adding user 'userlab6' to 'dev' group
+User 'userlab6' has been added to 'dev' group
+Adding sudo without password for 'dev' group
+Sudo right added for 'dev' group
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Group 'dev' already exists
+Adding user 'mbril' to 'dev' group
+User 'mbril' has been added to 'dev' group
+Adding user 'max' to 'dev' group
+User 'max' has been added to 'dev' group
+Adding user 'ilya' to 'dev' group
+User 'ilya' has been added to 'dev' group
+Adding user 'consultant1' to 'dev' group
+User 'consultant1' has been added to 'dev' group
+Adding user 'consultant2' to 'dev' group
+User 'consultant2' has been added to 'dev' group
+Adding user 'operator1' to 'dev' group
+User 'operator1' has been added to 'dev' group
+Adding user 'opik' to 'dev' group
+User 'opik' has been added to 'dev' group
+Adding user 'user2' to 'dev' group
+User 'user2' has been added to 'dev' group
+Adding user 'user3' to 'dev' group
+User 'user3' has been added to 'dev' group
+Adding user 'userlab6' to 'dev' group
+User 'userlab6' has been added to 'dev' group
+File '/etc/sudoers.d/dev-nopasswd' already exists
+Base directory for working catalogs: /devops/devdirs
+Base directory for working catalogs: /devops/devdirs
+Base directory for working catalogs: /devops/devdirs
+Base directory for working catalogs: /devops/devdirs
+Base directory for working catalogs: /devops/devdirs
+Directory /devops/devdirs does not exist. Creating
+Created: /devops/devdirs
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Group 'dev' already exists
+Adding user 'mbril' to 'dev' group
+User 'mbril' has been added to 'dev' group
+Adding user 'max' to 'dev' group
+User 'max' has been added to 'dev' group
+Adding user 'ilya' to 'dev' group
+User 'ilya' has been added to 'dev' group
+Adding user 'consultant1' to 'dev' group
+User 'consultant1' has been added to 'dev' group
+Adding user 'consultant2' to 'dev' group
+User 'consultant2' has been added to 'dev' group
+Adding user 'operator1' to 'dev' group
+User 'operator1' has been added to 'dev' group
+Adding user 'opik' to 'dev' group
+User 'opik' has been added to 'dev' group
+Adding user 'user2' to 'dev' group
+User 'user2' has been added to 'dev' group
+Adding user 'user3' to 'dev' group
+User 'user3' has been added to 'dev' group
+Adding user 'userlab6' to 'dev' group
+User 'userlab6' has been added to 'dev' group
+File '/etc/sudoers.d/dev-nopasswd' already exists
+Base directory for working catalogs: /devops/devdirs
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Group 'dev' already exists
+Adding user 'mbril' to 'dev' group
+User 'mbril' has been added to 'dev' group
+Adding user 'max' to 'dev' group
+User 'max' has been added to 'dev' group
+Adding user 'ilya' to 'dev' group
+User 'ilya' has been added to 'dev' group
+Adding user 'consultant1' to 'dev' group
+User 'consultant1' has been added to 'dev' group
+Adding user 'consultant2' to 'dev' group
+User 'consultant2' has been added to 'dev' group
+Adding user 'operator1' to 'dev' group
+User 'operator1' has been added to 'dev' group
+Adding user 'opik' to 'dev' group
+User 'opik' has been added to 'dev' group
+Adding user 'user2' to 'dev' group
+User 'user2' has been added to 'dev' group
+Adding user 'user3' to 'dev' group
+User 'user3' has been added to 'dev' group
+Adding user 'userlab6' to 'dev' group
+User 'userlab6' has been added to 'dev' group
+File '/etc/sudoers.d/dev-nopasswd' already exists
+Creating directory for 'mbril': /devops/devdirs/mbril_workdir
+Created /devops/devdirs/mbril_workdir directory: owner-mbril, group-mbril, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'max': /devops/devdirs/max_workdir
+Created /devops/devdirs/max_workdir directory: owner-max, group-max, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'ilya': /devops/devdirs/ilya_workdir
+Created /devops/devdirs/ilya_workdir directory: owner-ilya, group-ilya, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'consultant1': /devops/devdirs/consultant1_workdir
+Created /devops/devdirs/consultant1_workdir directory: owner-consultant1, group-consultant1, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'consultant2': /devops/devdirs/consultant2_workdir
+Created /devops/devdirs/consultant2_workdir directory: owner-consultant2, group-consultant2, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'operator1': /devops/devdirs/operator1_workdir
+Created /devops/devdirs/operator1_workdir directory: owner-operator1, group-operator1, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'opik': /devops/devdirs/opik_workdir
+Created /devops/devdirs/opik_workdir directory: owner-opik, group-operators, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'user2': /devops/devdirs/user2_workdir
+Created /devops/devdirs/user2_workdir directory: owner-user2, group-user2, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'user3': /devops/devdirs/user3_workdir
+Created /devops/devdirs/user3_workdir directory: owner-user3, group-user3, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'userlab6': /devops/devdirs/userlab6_workdir
+Created /devops/devdirs/userlab6_workdir directory: owner-userlab6, group-userlab6, rights 660 + acl 'read' for 'dev' group
+Base directory for working catalogs: /devops/devdirs
+Getting all non-system users
+Non-system users found:
+mbril
+max
+ilya
+consultant1
+consultant2
+operator1
+opik
+user2
+user3
+userlab6
+Group 'dev' already exists
+Adding user 'mbril' to 'dev' group
+User 'mbril' has been added to 'dev' group
+Adding user 'max' to 'dev' group
+User 'max' has been added to 'dev' group
+Adding user 'ilya' to 'dev' group
+User 'ilya' has been added to 'dev' group
+Adding user 'consultant1' to 'dev' group
+User 'consultant1' has been added to 'dev' group
+Adding user 'consultant2' to 'dev' group
+User 'consultant2' has been added to 'dev' group
+Adding user 'operator1' to 'dev' group
+User 'operator1' has been added to 'dev' group
+Adding user 'opik' to 'dev' group
+User 'opik' has been added to 'dev' group
+Adding user 'user2' to 'dev' group
+User 'user2' has been added to 'dev' group
+Adding user 'user3' to 'dev' group
+User 'user3' has been added to 'dev' group
+Adding user 'userlab6' to 'dev' group
+User 'userlab6' has been added to 'dev' group
+File '/etc/sudoers.d/dev-nopasswd' already exists
+Creating directory for 'mbril': /devops/devdirs/mbril_workdir
+Created /devops/devdirs/mbril_workdir directory: owner-mbril, group-mbril, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'max': /devops/devdirs/max_workdir
+Created /devops/devdirs/max_workdir directory: owner-max, group-max, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'ilya': /devops/devdirs/ilya_workdir
+Created /devops/devdirs/ilya_workdir directory: owner-ilya, group-ilya, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'consultant1': /devops/devdirs/consultant1_workdir
+Created /devops/devdirs/consultant1_workdir directory: owner-consultant1, group-consultant1, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'consultant2': /devops/devdirs/consultant2_workdir
+Created /devops/devdirs/consultant2_workdir directory: owner-consultant2, group-consultant2, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'operator1': /devops/devdirs/operator1_workdir
+Created /devops/devdirs/operator1_workdir directory: owner-operator1, group-operator1, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'opik': /devops/devdirs/opik_workdir
+Created /devops/devdirs/opik_workdir directory: owner-opik, group-operators, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'user2': /devops/devdirs/user2_workdir
+Created /devops/devdirs/user2_workdir directory: owner-user2, group-user2, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'user3': /devops/devdirs/user3_workdir
+Created /devops/devdirs/user3_workdir directory: owner-user3, group-user3, rights 660 + acl 'read' for 'dev' group
+Creating directory for 'userlab6': /devops/devdirs/userlab6_workdir
+Created /devops/devdirs/userlab6_workdir directory: owner-userlab6, group-userlab6, rights 660 + acl 'read' for 'dev' group
