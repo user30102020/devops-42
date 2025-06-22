@@ -1,0 +1,58 @@
+- name: task playbook
+  hosts: remote
+  become: yes
+  vars:
+    new_user: devopsuser
+    ssh_public_key: "{{ lookup('file', lookup('env', 'HOME') + '/.ssh/id_rsa.pub') }}"
+
+  tasks:
+
+    - name: Creating new user
+      ansible.builtin.user:
+        name: "{{ new_user }}"
+        state: present
+        create_home: yes
+
+    - name: Adding new user to sudo group
+      ansible.builtin.user:
+        name: "{{ new_user }}"
+        groups: sudo
+        append: yes
+
+    - name: Creating .shh directory
+      file:
+        path: '/home/{{ new_user }}/.ssh'
+        state: directory
+        owner: "{{ new_user }}"
+        group: "{{ new_user }}"
+        mode: '0700'
+
+
+    - name: Adding public key to authorized_keys
+      copy:
+        content: "{{ ssh_public_key }}"
+        dest: "/home/{{ new_user }}/.ssh/authorized_keys"
+        owner: "{{ new_user }}"
+        group: "{{ new_user }}"
+        mode: '0600'
+
+    - name: Disabling authentication by password
+      lineinfile:
+        path: /etc/ssh/sshd_config
+        regexp: '^#?PasswordAuthentication'
+        line: 'PasswordAuthentication no'
+        state: present
+        backup: yes
+
+    - name: Restarting SSH
+      ansible.builtin.service:
+        name: ssh
+        state: restarted
+
+    - name: Creationg directory in /opt
+      file:
+        path: /opt/devopsdir
+        state: directory
+        owner: "{{ new_user }}"
+        group: "{{ new_user }}"
+        mode: '0660'
