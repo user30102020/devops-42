@@ -1,0 +1,22 @@
+.form-control:focus {
+    font-size: 15px;
+    border: 3px solid #555;
+}
+
+.form-control {
+    font-family: Arial;
+    font-size: 15px;
+    border: 2px solid red;
+    border-radius: 6px;
+}
+
+.submit-btn {
+    border: none;
+    background-color: green;
+    font-size: 15px;
+    height: 20px;
+}
+
+.submit-btn:hover {
+    border: 1.5px solid black;
+}

@@ -1,0 +1,27 @@
+spring:
+    application:
+        name: bshop42
+
+    freemarker:
+        template-loader-path: classpath:/templates
+        suffix: .ftl
+
+    datasource:
+        url: jdbc:postgresql://postgres:5432/bshopsem4
+        username: postgres
+        password: n0tDrivingDrunk118
+        hikari:
+            maximum-pool-size: 20
+
+    jpa:
+        generate-ddl: true
+        hibernate:
+            ddl-auto: update
+        properties:
+            hibernate:
+                show_sql: true
+                format_sql: true
+
+logging:
+    level:
+        com.zaxxer.hikari: DEBUG

@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+.menu__bar_buttons {
+    border: 1.5px solid black;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+
+.button_text {
+    font-family: 'Playfair Display SC', sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
